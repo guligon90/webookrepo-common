@@ -1,5 +1,5 @@
 {
-  "name": "@webookrepo/common",
+  "name": "@webookrepo/commonp",
   "version": "1.0.2",
   "description": "A common package for the webookrepo's service layer.",
   "main": "./build/index.js",
