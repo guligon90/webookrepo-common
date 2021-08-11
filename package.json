@@ -1,6 +1,6 @@
 {
   "name": "@webookrepo/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A common package for the webookrepo's service layer.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -32,7 +32,7 @@
     "url": "https://github.com/guligon90/webookrepo-common.git"
   },
   "bugs": {
-    "url" : "https://github.com/guligon90/webookrepo-common/issues",
-    "email" : "guligon90@gmail.com"
+    "url": "https://github.com/guligon90/webookrepo-common/issues",
+    "email": "guligon90@gmail.com"
   }
 }
